@@ -1,6 +1,5 @@
 package eu.hansolo.fx.geomfx.tools;
 
-import com.google.common.graph.Graph;
 import eu.hansolo.fx.geomfx.Path;
 import javafx.scene.canvas.GraphicsContext;
 import javafx.scene.paint.Color;
